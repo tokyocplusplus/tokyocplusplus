@@ -27,8 +27,6 @@ int main()
 int main(void)
 {
     printf("Hello!! I'm a graphics programmer and this is my github page!";
-
-    return 0;
 }
 ```
 ```GLSL
@@ -36,7 +34,7 @@ int main(void)
 
 void main()
 {
-    string print = "Hello!! I'm a graphics programmer and this my github page!";
+    DrawString("Helloǃǃ I'm a graphics programmer and this my github pageǃ");
 }
 ```
 
