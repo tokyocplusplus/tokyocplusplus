@@ -6,6 +6,12 @@
 
 # This is my page lol, enjoy looking at it
 
+```rust
+fn main() {
+    println!("Hello!! I'm a graphics programmer and this is my github page:D");
+}
+```
+
 ```C++
 // tokyocplusplus
 
