@@ -6,10 +6,25 @@
 
 # This is my page lol, enjoy looking at it
 
-```rust
-fn main() {
-    println!("Hello!! I'm a graphics programmer and this is my github page:D");
-}
+```assembly
+; tokyocplusplus
+section .data
+	hello:     db 'Hello!! Im a graphics programmer and this is my github page:D',10
+	helloLen:  equ $-hello
+
+section .text
+	global _start
+
+_start:
+	mov eax,4
+	mov ebx,1 
+	mov ecx,hello        
+	mov edx,helloLen     
+	                     
+	int 80h
+	mov eax,1            
+	mov ebx,0            
+	int 80h;
 ```
 
 ```C++
@@ -22,6 +37,12 @@ int main()
     std::cout << "Hello!! I'm a graphics programmer and this is my github page!";
 
     return 0;
+}
+```
+
+```rust
+fn main() {
+    println!("Hello!! I'm a graphics programmer and this is my github page:D");
 }
 ```
 
