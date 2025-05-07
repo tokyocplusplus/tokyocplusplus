@@ -9,7 +9,7 @@
 ```assembly
 ; tokyocplusplus
 section .data
-	hello:     db 'Hello!! Im a graphics programmer and this is my github page:D',10
+	hello:     db 'Hello!! Im a graphics programmer and this is my github page:D', 0xA
 	helloLen:  equ $-hello
 
 section .text
@@ -26,7 +26,15 @@ _start:
 	mov ebx,0            
 	int 80h;
 ```
-
+```Cs
+namespace MAIN_FILE {
+	class Haiiiii {
+		public static void Main() {
+			Console.WriteLine("Hello!! I'm a graphics programmer and this is my github page!!!~~~ :3!!!")
+		}
+	}
+}
+```
 ```C++
 // tokyocplusplus
 
@@ -39,13 +47,11 @@ int main()
     return 0;
 }
 ```
-
 ```rust
 fn main() {
     println!("Hello!! I'm a graphics programmer and this is my github page:D");
 }
 ```
-
 ```C
 // tokyocplusplus
 
