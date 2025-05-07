@@ -27,6 +27,9 @@ _start:
 	int 80h;
 ```
 ```Cs
+// tokyocplusplus
+using System;
+
 namespace MAIN_FILE {
 	class Haiiiii {
 		public static void Main() {
@@ -37,7 +40,6 @@ namespace MAIN_FILE {
 ```
 ```C++
 // tokyocplusplus
-
 #include<iostream>
 
 int main()
@@ -48,13 +50,13 @@ int main()
 }
 ```
 ```rust
+// tokyocplusplus
 fn main() {
     println!("Hello!! I'm a graphics programmer and this is my github page:D");
 }
 ```
 ```C
 // tokyocplusplus
-
 #include<stdio.h>
 
 int main(void)
@@ -63,6 +65,7 @@ int main(void)
 }
 ```
 ```GLSL
+// tokyocplusplus
 #version 450 core
 
 void main()
