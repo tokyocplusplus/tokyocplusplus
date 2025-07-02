@@ -1,16 +1,164 @@
-## Hi there 👋
+# welcome to the one and only zenith's page!!!
+### your one stop shop for inpressive code to steal and gawking at my technical marvels (not really)!!!
 
-<!--
-**tokyocplusplus/tokyocplusplus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ITCH.IO PAGE
+https://zenith-3.itch.io
 
-Here are some ideas to get you started:
+```assembly
+; tokyocplusplus
+section .data
+	hello:     db 'Hello!! Im a graphics programmer and this is my github page:D', 0xA
+	helloLen:  equ $-hello
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+section .text
+	global _start
+
+_start:
+	mov eax,4
+	mov ebx,1 
+	mov ecx,hello        
+	mov edx,helloLen
+	int 80h
+
+	mov eax,1            
+	mov ebx,0            
+	int 80h;
+```
+```Cs
+// tokyocplusplus
+using System;
+
+namespace MAIN_FILE {
+	class Haiiiii {
+		public static void Main() {
+			Console.WriteLine("Hello!! I'm a graphics programmer and this is my github page!!!~~~ :3!!!")
+		}
+	}
+}
+```
+```C++
+// tokyocplusplus
+#include<iostream>
+
+int main()
+{
+    std::cout << "Hello!! I'm a graphics programmer and this is my github page!";
+
+    return 0;
+}
+```
+```rust
+// tokyocplusplus
+fn main() {
+    println!("Hello!! I'm a graphics programmer and this is my github page:D");
+}
+```
+```C
+// tokyocplusplus
+#include<stdio.h>
+
+int main(void)
+{
+    printf("Hello!! I'm a graphics programmer and this is my github page!";
+}
+```
+```GLSL
+// tokyocplusplus
+#version 450 core
+
+void main()
+{
+    DrawString("Helloǃǃ I'm a graphics programmer and this my github pageǃ");
+}
+```
+
+## PERSONAL/WORK RELATED EMAIL
+"tokyocplusplus@gmail.com"
+
+
+
+
+
+# welcome to the one and only zenith's page!!!
+### your one stop shop for inpressive code to steal and gawking at my technical marvels (not really)!!!
+
+### ITCH.IO PAGE
+https://zenith-3.itch.io
+
+```assembly
+; tokyocplusplus
+section .data
+	hello:     db 'Hello!! Im a graphics programmer and this is my github page:D', 0xA
+	helloLen:  equ $-hello
+
+section .text
+	global _start
+
+_start:
+	mov eax,4
+	mov ebx,1 
+	mov ecx,hello        
+	mov edx,helloLen
+	int 80h
+
+	mov eax,1            
+	mov ebx,0            
+	int 80h;
+```
+```Cs
+// tokyocplusplus
+using System;
+
+namespace MAIN_FILE {
+	class Haiiiii {
+		public static void Main() {
+			Console.WriteLine("Hello!! I'm a graphics programmer and this is my github page!!!~~~ :3!!!")
+		}
+	}
+}
+```
+```C++
+// tokyocplusplus
+#include<iostream>
+
+int main()
+{
+    std::cout << "Hello!! I'm a graphics programmer and this is my github page!";
+
+    return 0;
+}
+```
+```rust
+// tokyocplusplus
+fn main() {
+    println!("Hello!! I'm a graphics programmer and this is my github page:D");
+}
+```
+```C
+// tokyocplusplus
+#include<stdio.h>
+
+int main(void)
+{
+    printf("Hello!! I'm a graphics programmer and this is my github page!";
+}
+```
+```GLSL
+// tokyocplusplus
+#version 450 core
+
+void main()
+{
+    DrawString("Helloǃǃ I'm a graphics programmer and this my github pageǃ");
+}
+```
+
+## PERSONAL/WORK RELATED EMAIL
+"tokyocplusplus@gmail.com"
+
+
+
+
+
+
+# you've reached the end of the page!!
