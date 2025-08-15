@@ -1,5 +1,5 @@
 # welcome to the one and only zenith's page!!!
-### your one stop shop for inpressive code to steal and gawking at my technical marvels (not really)!!!
+### your one stop shop for impressive code to steal and gawking at my technical marvels (not really)!!!
 
 ### ITCH.IO PAGE
 https://zenith-3.itch.io
@@ -31,7 +31,7 @@ using System;
 namespace MAIN_FILE {
 	class Haiiiii {
 		public static void Main() {
-			Console.WriteLine("Hello!! I'm a graphics programmer and this is my github page!!!~~~ :3!!!")
+			Console.WriteLine("Hello!! I'm a graphics programmer and this is my github page!!!:D")
 		}
 	}
 }
@@ -42,7 +42,7 @@ namespace MAIN_FILE {
 
 int main()
 {
-    std::cout << "Hello!! I'm a graphics programmer and this is my github page!";
+    std::cout << "Hello :D !! I'm a graphics programmer and this is my github page!";
 
     return 0;
 }
@@ -59,7 +59,7 @@ fn main() {
 
 int main(void)
 {
-    printf("Hello!! I'm a graphics programmer and this is my github page!";
+    printf("Hello :D !! I'm a graphics programmer and this is my github page!";
 }
 ```
 ```GLSL
@@ -68,7 +68,8 @@ int main(void)
 
 void main()
 {
-    DrawString("Helloǃǃ I'm a graphics programmer and this my github pageǃ");
+	//psuedo code, i know
+    DrawString("Hello :D ǃǃ I'm a graphics programmer and this my github pageǃ");
 }
 ```
 
